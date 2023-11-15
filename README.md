@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<blockquote class="imgur-embed-pub" lang="en" data-id="CyLnj6Q"><a href="https://imgur.com/CyLnj6Q">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="CyLnj6Q"><a href="https://imgur.com/CyLnj6Q">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  ScreenToGif
