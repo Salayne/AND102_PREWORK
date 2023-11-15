@@ -17,13 +17,14 @@ class MainActivity : AppCompatActivity() {
 
 
         getInfo(helloButton,introductionParagraph)
-        Toast.makeText(applicationContext,"press here", Toast.LENGTH_SHORT).show()
+
 
     }
 
     private fun getInfo(button: Button,textView: TextView){
         button.setOnClickListener {
             textView.visibility = View.VISIBLE
+            Toast.makeText(applicationContext,"Tis I!!", Toast.LENGTH_SHORT).show()
         }
 
     }
